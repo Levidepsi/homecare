@@ -18,6 +18,7 @@ const HeaderMobile = (menu: any, openMenu: any, setOpenMenu: any) => {
 									<li key={i}>
 										<Link href={item.link}>{item.name}</Link>
 									</li>
+									asdadasdasd
 								</>
 							);
 						})}
